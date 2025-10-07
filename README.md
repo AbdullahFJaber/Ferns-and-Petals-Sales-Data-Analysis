@@ -84,7 +84,7 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 
 ---
 
-💡 Recommendations
+## 💡 Recommendations
 
 Launch seasonal campaigns & flash sales for low-sales months (e.g., Jan) and top occasions (Feb, Aug).
 
