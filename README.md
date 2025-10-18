@@ -21,7 +21,8 @@ The main goal is to analyze sales performance and provide insights in a clear, v
 
 ## 📈 Dashboard Preview  
 
-<img width="1264" height="436" alt="image" src="https://github.com/user-attachments/assets/227cc46e-6c53-4b35-b2d0-5f30f8eabb9b" />
+<img width="1058" height="368" alt="Dashboard" src="https://github.com/user-attachments/assets/100fea05-375c-433e-b21e-d9924ea6a14c" />
+
 
 ----
 
@@ -102,7 +103,7 @@ Implement loyalty programs and track high-value customers for retention.
 
 ## 🗂 Files in This Repository  
 
-- `Results and Dashboard.xlsx` → The main Excel file containing data & dashboard
+- `Results & Dashboard.xlsx` → The main Excel file containing data & dashboard
 - `Original Folder` → The main Excel file containing data before cleaning contains ( `customers.xlsx`, `orders.xlsx`, `products.xlsx` )
 - `Recommendations for Sales, Profitability & Performance.pdf` → For Recommendations Details
 - `README.md` → This file  
